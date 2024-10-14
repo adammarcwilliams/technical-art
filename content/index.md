@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Technical Art PKMS
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hey there 👋, I'm Adam and this is the place I keep all the things about Technical Art I learn but will inevitably forget later when I need them.
+
