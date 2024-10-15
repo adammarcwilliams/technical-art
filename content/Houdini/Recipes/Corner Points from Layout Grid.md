@@ -1,8 +1,9 @@
 ---
-title: Select Corner Points from Layout Grid
+title: Corner Points from Layout Grid
 draft: false
 tags:
   - houdini
+  - procedural
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)

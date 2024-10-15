@@ -1,8 +1,7 @@
 ---
 title: Recipes
 draft: false
-tags:
-  - houdini
+tags: []
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)

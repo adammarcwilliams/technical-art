@@ -1,9 +1,9 @@
 ---
-title: Fuse Geometry Node
+title: Wall Points from Layout Grid
 draft: false
 tags:
-  - "#houdini"
-  - SOP
+  - houdini
+  - procedural
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)
