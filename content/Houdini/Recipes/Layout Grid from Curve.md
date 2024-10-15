@@ -1,5 +1,5 @@
 ---
-title: Level Layout Grid from Curve
+title: Layout Grid from Curve
 draft: false
 tags:
   - houdini
