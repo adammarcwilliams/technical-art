@@ -1,5 +1,5 @@
 ---
-title: "Shader Studies: Dissolve/Reveal Effects"
+title: Dissolve & Reveal VFX
 draft: false
 tags:
   - shaders
